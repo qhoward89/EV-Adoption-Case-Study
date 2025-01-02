@@ -1,20 +1,25 @@
+# EV Adoption Case Study
 
-# EV Adoption Case Study Repository
+This repository contains a detailed analysis of regional EV adoption trends. The case study highlights high-growth regions, challenges in low-growth regions, and actionable recommendations for stakeholders.
 
-This repository contains the case study on regional electric vehicle (EV) adoption trends. It provides insights into high-growth and low-growth regions, key drivers, and actionable recommendations.
+## Files
+- **Case Study PDF**: [Download here](./Final_Enhanced_Case_Study_With_Images_And_Fixed_Encoding.pdf)
+- **Visuals**:
+  - Global EV Sales Trend: ![Global EV Sales](./global_ev_sales_trend_corrected.png)
+  - Regional Market Share: ![Regional Market Share](./regional_market_share_corrected.png)
+  - Growth Comparison: ![Growth Comparison](./growth_comparison_corrected.png)
+  - Infrastructure vs. Adoption: ![Infrastructure vs Adoption](./infrastructure_vs_adoption_corrected.png)
 
-## Contents
-- **Case Study:** A detailed analysis in Markdown and PDF formats.
-- **Visuals:** Charts and graphs supporting the findings.
+## Key Highlights
+- **Top Regions**: China, Europe, and the USA dominate EV sales.
+- **High-Growth Areas**: India and Rest of the World show exponential growth potential.
+- **Low-Growth Barriers**: Infrastructure and policy gaps hinder adoption in specific regions.
 
-## Quick Links
-- [View Case Study in Markdown](./CASE_STUDY.md)
-- [Download PDF Version](./EV-Adoption-Case-Study.pdf)
-
-## Summary
-This study identifies regional leaders, barriers, and opportunities in EV adoption, emphasizing sustainable transportation.
-
----
+## Recommendations
+- Expand infrastructure with public-private partnerships.
+- Introduce consumer awareness campaigns.
+- Incentivize affordable EV models in emerging markets.
 
 ## License
-This project is open-source under the MIT License.
+Open for educational and research purposes under the MIT License.
+
