@@ -41,10 +41,10 @@ Electric vehicles (EVs) are essential for reducing carbon emissions. This study 
 ---
 
 ## Visuals
-![Global EV Sales Trend](./global_ev_sales_trend_corrected.png)  
+![Global EV Sales Trend](images/global_ev_sales_trend_corrected%201.png)  
 _Figure 1: Global EV Sales Trend showcasing historical and projected growth._
 
-![Regional Market Share](./regional_market_share_corrected.png)  
+![Regional Market Share](images/regional_market_share_corrected%202.png)  
 _Figure 2: Regional Market Share of EV Sales in 2023._
 
 ---
