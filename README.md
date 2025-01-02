@@ -6,7 +6,7 @@ This repository contains a detailed analysis of regional EV adoption trends. The
 - **Case Study PDF**: [Download here](./Final_Enhanced_Case_Study_With_Images_And_Fixed_Encoding.pdf)
 - **Visuals**:
   - Global EV Sales Trend:  
-    ![Global EV Sales] (global_ev_sales_trend_corrected 1.png)
+    ![Global EV Sales] ([global_ev_sales_trend_corrected 1.png](https://github.com/qhoward89/EV-Adoption-Case-Study/blob/main/global_ev_sales_trend_corrected%201.png))
   - Regional Market Share:  
     ![Regional Market Share](./images/regional_market_share_corrected.png)
   - Growth Comparison:  
