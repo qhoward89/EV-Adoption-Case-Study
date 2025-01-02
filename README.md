@@ -5,14 +5,14 @@ This repository contains a detailed analysis of regional EV adoption trends. The
 ## Files
 - **Case Study PDF**: [Download here](./Final_Enhanced_Case_Study_With_Images_And_Fixed_Encoding.pdf)
 - **Visuals**:
-  - Global EV Sales Trend:  
-    ![Global EV Sales] ([global_ev_sales_trend_corrected 1.png](https://github.com/qhoward89/EV-Adoption-Case-Study/blob/main/global_ev_sales_trend_corrected%201.png))
+- Global EV Sales Trend:
+    ![Global EV Sales Trend](images/global_ev_sales_trend_corrected%201.png)
   - Regional Market Share:  
-    ![Regional Market Share](./images/regional_market_share_corrected.png)
+    ![Regional Market Share](images/regional_market_share_corrected%202.png)
   - Growth Comparison:  
-    ![Growth Comparison](./images/growth_comparison_corrected.png)
+    ![Growth Comparison](images/growth_comparison_corrected%203.png)
   - Infrastructure vs. Adoption:  
-    ![Infrastructure vs Adoption](./images/infrastructure_vs_adoption_corrected.png)
+    ![Infrastructure vs Adoption](images/infrastructure_vs_adoption_corrected%204.png)
 
 ## Key Highlights
 - **Top Regions**: China, Europe, and the USA dominate EV sales.
